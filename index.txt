@@ -1,0 +1,86 @@
+weatherio
+weatherio is a weather app made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+placeholder = Search city...
+
+<span class="m-icon">search</span>
+
+<span class="m-icon">arrow_back</span>
+
+London
+GB
+
+Current Location
+
+
+
+#---------- CURRENT WEATHER ----------#
+
+Now
+
+25°c
+
+Overcast Clouds
+
+<span class="m-icon">calendar_today</span>
+Thursday 16, Feb
+
+<span class="m-icon">location_on</span>
+London, GB
+
+
+
+#---------- HIGHLIGHTS ----------#
+
+Todays Highlights
+
+Air Quality Index
+
+<span class="m-icon">air</span>
+
+23.3
+PM
+2.5
+
+Good
+
+Sunrise & Sunset
+Sunrise
+Sunset
+6:30 AM
+5:54 PM
+
+
+
+#---------- HOURLY FORECAST ----------#
+
+Today at
+
+03 PM
+25
+
+
+
+
+#---------- FORECAST ----------#
+
+5 Days Forecast
+
+25
+25
+17 Feb
+Friday
+
+
+
+#---------- HERO ----------#
+
+
+
+#---------- FOOTER ----------#
